@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on projects where I can learn and improve my coding skills.
 - 📫 You can reach me by mail : yusufyigitkorkmz@gmail.com
-- I'm sophomore CS student at Bilkent University.
+- I'm third year CS student at Bilkent University.
 
 <!---
 YigitKorkmazz/YigitKorkmazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
