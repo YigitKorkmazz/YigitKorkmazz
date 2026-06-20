@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YigitKorkmazz
-- 🌱 I’m currently interested in Software Development, Data Structures and Algorithms and Machine Learning.
+- 🌱 I’m currently interested in Deep Learning, VLMs, Software Development and Data Structures and Algorithms.
 - 👀 I’m looking to collaborate on projects where I can learn and improve my coding skills.
 - 📫 You can reach me by mail : yusufyigitkorkmz@gmail.com
 - I'm third year CS student at Bilkent University.
